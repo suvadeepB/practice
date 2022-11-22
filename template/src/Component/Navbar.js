@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { Link } from "react-router-dom";
-import logo from "../../src/Images/logo.webp";
+import logo from "../../src/Images/logo.png";
 function Navbar() {
     const navRef = useRef();
     const showNavbar = () => {
